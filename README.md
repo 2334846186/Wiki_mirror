@@ -2,7 +2,6 @@
 
 本站点为备份站，不保证信息更新速度
 
-!> **由于错误操作导致路由器变砖之类的问题，请自行承担后果。**
 
 [R3G 入门教程](https://github.com/2334846186/Wiki_mirror/blob/main/IntroductionTutorial/R3G.md)
 
@@ -11,5 +10,8 @@
 [亚瑟AX1800Pro & 兆能M2入门教程](https://github.com/2334846186/Wiki_mirror/blob/main/IntroductionTutorial/JDC-01%26ZN-M2.md)
 
 [亚瑟AX1800Pro & 兆能M2进阶教程](https://github.com/2334846186/Wiki_mirror/blob/main/AdvancedTutorial/JDC-01%26ZN-M2.md)
+
+[常见问题 QFA](https://github.com/2334846186/Wiki_mirror/blob/main/QFA/QFA.md)
+
 
 
