@@ -11,8 +11,7 @@
 
 [亚瑟AX1800Pro & 兆能M2进阶教程](https://github.com/2334846186/Wiki_mirror/blob/main/AdvancedTutorial/JDC-01%26ZN-M2.md)
 
-[常见问题 QFA](https://github.com/2334846186/Wiki_mirror/blob/main/FAQ/FAQ.md)
-
+[常见问题 FAQ](https://github.com/2334846186/Wiki_mirror/blob/main/FAQ/FAQ.md)
 
 
 
