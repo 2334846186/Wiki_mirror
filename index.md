@@ -20,13 +20,13 @@
 
 传送门：
 
-​	[Immortalwrt 入门教程](/IntroductionTutorial/Immortalwrt.md)
+​	[Immortalwrt 入门教程](/IntroductionTutorial/Immortalwrt)
 
-​	[Immortalwrt 进阶教程](/AdvancedTutorial/Immortalwrt.md)
+​	[Immortalwrt 进阶教程](/AdvancedTutorial/Immortalwrt)
 
-​	[QWRT 入门教程](/IntroductionTutorial/QWRT.md)
+​	[QWRT 入门教程](/IntroductionTutorial/QWRT)
 
-​	[QWRT 进阶教程](/AdvancedTutorial/QWRT.md)
+​	[QWRT 进阶教程](/AdvancedTutorial/QWRT)
 
-​	[常见问题 FAQ](/FAQ/FAQ.md)
+​	[常见问题 FAQ](/FAQ/FAQ)
 
