@@ -6,15 +6,27 @@
 
 
 
+由于需要制作教程的路由器型号数量增加，后续将以系统类别进行分类
+
+
+
+| Immortalwrt | QWRT                   |
+| ----------- | ---------------------- |
+| R3G         | 亚瑟AX1800pro          |
+|             | 兆能m2                 |
+|             | 阿里云ap8820（未验证） |
+
+
+
 传送门：
 
-​	[R3G 入门教程](/IntroductionTutorial/R3G)
+​	[Immortalwrt 入门教程](/IntroductionTutorial/Immortalwrt)
 
-​	[R3G 进阶教程](/AdvancedTutorial/R3G)
+​	[Immortalwrt 进阶教程](/AdvancedTutorial/Immortalwrt)
 
-​	[亚瑟AX1800Pro & 兆能M2入门教程](/IntroductionTutorial/JDC-01&ZN-M2)
+​	[QWRT 入门教程](/IntroductionTutorial/QWRT)
 
-​	[亚瑟AX1800Pro & 兆能M2进阶教程](/AdvancedTutorial/JDC-01&ZN-M2)
+​	[QWRT 进阶教程](/AdvancedTutorial/QWRT)
 
 ​	[常见问题 FAQ](/FAQ/FAQ)
 
