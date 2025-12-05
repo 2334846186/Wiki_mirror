@@ -6,11 +6,17 @@
 
 `[R3G]` 小米 R3G 路由器
 
+`[NN6000]` NN6000-V2
 
+
+
+该篇章大部分均以R3G作为演示机器，NN6000与其系统相同UI界面不同，操作逻辑是一致的
 
 ## 后台密码及WIFI密码
 
-R3G群内目前有两种固件，分别为Lede和Immortalwrt，默认预装Immortalwrt
+[R3G]R3G 群内目前有两种固件，分别为Lede和Immortalwrt，默认预装Immortalwrt
+
+[NN6000] NN6000 仅有immortalwrt版本
 
 Lede 版本 默认后台192.168.1.1
 
