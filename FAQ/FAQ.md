@@ -16,7 +16,7 @@
 
 如果 WAN 为`192.168.a.c `LAN 为 `192.168.a.d`(如WAN为192.168.1.3 Lan为192.168.1.1)则证明是网关冲突,你需要按照
 
-[R3G 入门教程-修改后台登录地址](/IntroductionTutorial/R3G?id=修改后台登录地址) 或 [亚瑟AX1800Pro & 兆能M2 入门教程-修改后台登录地址](/IntroductionTutorial/JDC-01&ZN-M2?id=修改后台登录地址)修改路由网关（即修改后台登录地址）
+[Immortalwrt 入门教程-修改后台登录地址](/IntroductionTutorial/Immortalwrt?id=修改后台登录地址) 或 [QWRT 入门教程-修改后台登录地址](/IntroductionTutorial/QWRT?id=修改后台登录地址)修改路由网关（即修改后台登录地址）
 
 ### 2.排查 DNS 问题
 
@@ -32,7 +32,7 @@
 
 如果你没有得到类似上图的输出，基本可以确定为 DNS 异常。
 
-你需要按照[R3G 入门教程-修改路由 DNS](/IntroductionTutorial/R3G?id=修改路由器-dns) 或 [亚瑟AX1800Pro & 兆能M2 入门教程-修改路由器 DNS](/IntroductionTutorial/JDC-01&ZN-M2?id=修改路由器-dns)来解决
+你需要按照[Immortalwrt 入门教程-修改路由 DNS](/IntroductionTutorial/Immortalwrt?id=修改路由器-dns) 或 [QWRT 入门教程-修改路由器 DNS](/IntroductionTutorial/QWRT?id=修改路由器-dns)来解决
 
 
 
