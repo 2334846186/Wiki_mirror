@@ -136,7 +136,7 @@ R3G仅支持USB模式
 
 ![](./Image/1-10.png)
 
-## 通过breed进行刷机
+## [R3G] 通过 breed 进行刷机
 
 breed刷机会清除所有配置，建议在上述更新方法无效时使用，同时如果使用上述方法刷机时意外断电，也可以使用本方法。
 
@@ -150,9 +150,27 @@ breed刷机会清除所有配置，建议在上述更新方法无效时使用，
 
 [R3G刷机教程](./Image/1-1.mp4 ':include :type=iframe width=640% height=400px')
 
-## 使用PxxsWxxl OpenCxxxh等插件
+## [NN6000] 通过UBOOT刷机
 
-相关内容此处不教，建议询问群友
+Uboot 刷机会清除所有配置，建议在上述更新方法无效时使用，同时如果使用上述方法刷机时意外断电，也可以使用本方法。
+
+!>**uboot 刷机操作失误变砖的概率更大，请严格按照以下步骤执行**
+
+!>**更新固件期间请勿断电**
+
+先在群内`Link-nn6000固件`下载好所需的固件（文件名末尾为factory的文件）并解压
+
+将路由器断电，长按重置键（小的按钮）并插上电源，等待5-10s。用网线将路由器 Lan 口（建议使用从 WAN 口那边开始数的第三个 LAN 口）与电脑连接，在浏览器中输入`192.168.1.1`进入后台。（如果无法进入可参考[常见问题 FAQ-无法进入uboot](/FAQ/FAQ?id=无法进入uboot)）
+
+进入下图界面，点击选择文件，选择刚刚解压好的固件
+
+![](E:/WIKI-GIT/Wiki_mirror/IntroductionTutorial/Image/2-11.png)
+
+然后点击 Update firmware
+
+![](E:/WIKI-GIT/Wiki_mirror/IntroductionTutorial/Image/2-12.png)
+
+等待刷机完毕即可，该页面不会自动刷新，需自形判断是否刷机完成（建议以是否出现 WIFI 信号作为判断依据）
 
 ## 设置WAN口上网方式
 
